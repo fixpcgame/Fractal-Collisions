@@ -13,4 +13,7 @@ still fully accurate collider, all whilst ensuring there is control over the mod
 
 [Click here to view](https://drive.google.com/file/d/11Nl1PvfPnBmLs3uiTsknrOgDmJGzH5pR/view?usp=sharing)
 
-[![View the PDF](DissertationPreview.png)](https://drive.google.com/file/d/11Nl1PvfPnBmLs3uiTsknrOgDmJGzH5pR/view?usp=sharing)
+<a href="https://drive.google.com/file/d/11Nl1PvfPnBmLs3uiTsknrOgDmJGzH5pR/view?usp=sharing" target="_blank">
+  <img src="DissertationPreview.png" alt="View the PDF" style="width: 500px; border-radius: 8px;">
+</a>
+
